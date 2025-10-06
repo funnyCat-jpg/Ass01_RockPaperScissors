@@ -39,7 +39,7 @@ public class RockPaperScissors {
                 }
             } while(!playerAValid);
 
-                // Asking user B for input and checking if valid.
+            // Asking user B for input and checking if valid.
             do {
 
                 System.out.println("Player B please enter rock(R), paper(P), or scissors(S)");
